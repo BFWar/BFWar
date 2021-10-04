@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @BFWar
-- 👀 I’m interested in: total occult warfare against all
-- 🌱 I’m currently learning: rage and death blows
-- 💞️ I’m looking to collaborate on: bigfoot battles
-- 📫 How to reach me: on the field of battle
+# BIGFOOT WAR
+- 👋 Hi, I’m @BFWar: **BIGFOOT WAR**
+- 👀 I’m interested in: total occult BIGFOOT warfare against all BIGFOOTS
+- 🌱 I’m currently learning: BIGFOOT rage and death blows
+- 💞️ I’m looking to collaborate on: BIGFOOT battles
+- 📫 How to reach me: on the BIGFOOT field of battle
 
 <!---
 BFWar/BFWar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
